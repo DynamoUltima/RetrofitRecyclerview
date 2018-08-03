@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit Recyclerview</string>
+    <string name="Internet">No Internet Connection, please connect to the internet. </string>
+</resources>
